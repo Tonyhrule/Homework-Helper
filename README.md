@@ -65,6 +65,7 @@ homework-helper/
 ├── requirements.txt    # List of required Python packages
 ├── agents.py           # AI agent functions
 └── streamlit_app.py    # Streamlit app script
+```
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Tonyhrule/Simple-Homework-Helper/blob/main/LICENSE) file for details.

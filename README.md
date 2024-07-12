@@ -1,14 +1,16 @@
 # Homework Helper :books:
 
-Welcome to the Homework Helper! This is a simple app that allows you to ask any homework question and receive help from multiple AI agents. The AI agents collaborate to clarify your question, generate a detailed solution, and review the solution for quality.
+Welcome to Homework Helper! This simple app allows you to ask any homework question and receive help from multiple AI agents. The AI agents collaborate to clarify your question, generate a detailed solution, and review the solution for quality.
 
-# Class Slides: https://docs.google.com/presentation/d/11xB6sLTHSxSLAH6mMVigutda0oXZgL3TnM_sbh6WYU4/edit?usp=sharing
+## Class Slides: [Link](https://docs.google.com/presentation/d/11xB6sLTHSxSLAH6mMVigutda0oXZgL3TnM_sbh6WYU4/edit?usp=sharing)
+
+This app is made to showcase how students can make a simple Streamlit app demo from Lecture #14 in the [CMU 82-183: AI for Humanities Summer 2024 Course](https://www.cmu.edu/dietrich/lcal/courses/undergraduate-seminars/ai-humanities.html) (I am the invited speaker for this lecture).
 
 ## Features
 
 - **Clarification Agent**: Ensures your question is clear and requests additional details if necessary.
 - **Solution Agent**: Provides a detailed solution to your homework question.
-- **Quality Assurance Agent**: Reviews the solution for accuracy and suggests improvements.
+- **Quality Assurance Agent**: Review the solution for accuracy and suggest improvements.
 - **Concise Answer Agent**: Summarizes the solution into a concise answer.
 
 ## Installation

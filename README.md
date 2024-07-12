@@ -25,7 +25,7 @@ This app is made to showcase how students can make a simple Streamlit app demo f
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/homework-helper.git
+    git clone https://github.com/Tonyhrule/Homework-Helper.git
     cd homework-helper
     ```
 
@@ -41,6 +41,7 @@ This app is made to showcase how students can make a simple Streamlit app demo f
     ```bash
     pip install -r requirements.txt
     ```
+    - Try typing pip3 if pip doesn't work
 
 4. **Create a `.env` file** in the project directory and add your OpenAI API key:
 

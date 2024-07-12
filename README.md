@@ -2,6 +2,8 @@
 
 Welcome to the Homework Helper! This is a simple app that allows you to ask any homework question and receive help from multiple AI agents. The AI agents collaborate to clarify your question, generate a detailed solution, and review the solution for quality.
 
+# Class Slides: https://docs.google.com/presentation/d/11xB6sLTHSxSLAH6mMVigutda0oXZgL3TnM_sbh6WYU4/edit?usp=sharing
+
 ## Features
 
 - **Clarification Agent**: Ensures your question is clear and requests additional details if necessary.
